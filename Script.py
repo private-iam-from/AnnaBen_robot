@@ -5,13 +5,13 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
-𝗧𝗛𝗜𝗦 𝗔𝗡𝗡𝗔 𝗕𝗘𝗡'𝗦 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
+ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Dqautofl_Bot"> 𝑨𝑵𝑵𝑨 𝑩𝑬𝑵 </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/pro_editor_tg"> 🅛︎🅐︎🅛︎🅛︎🅤︎ᵗᵍ </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/PANDITHAN_SIR"> ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋM-STER </a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/medias_search_robot">Bʀᴏᴄᴋ Lᴇsɴᴀʀ ⚡️  </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎ - <a href="https://t.me/Robert_Pattinson119"> Rᴏʙᴇʀᴛ ☮ Pᴀᴛᴛɪɴsᴏɴ </a>
+║┣⪼ 𝒢𝓇ℴ𝓊𝓅 - <a href="https://t.me/TAMILROCKERS_REQUEST"> Click Here </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -19,11 +19,11 @@ class script(object):
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- 𝑰 𝒂𝒎 𝑛𝑜𝑡 𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
+- 𝗗𝗘𝗩 ⚡- <a href="https://t.me/Robert_Pattinson119"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
-𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
+𝗦𝗨𝗣𝗣𝗢𝗥𝗧:
+<a href="https://t.me/filmyfunda_movies">🅣🅔🅐🅜_🅕🅕 </a>"""
     FUN_TXT ="""<b>FUN MODULE</b> 
     
 <b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
@@ -110,7 +110,7 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     FILTER_TXT = """𝐒𝐄𝐋𝐄𝐂𝐓 𝐀 𝐅𝐈𝐋𝐓𝐄𝐑 𝐓𝐘𝐏𝐄 𝐁𝐄𝐋𝐎𝐖
-⍟ 𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 @team_annaben"""
+⍟ 𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 @Robert_Pattinson119"""
     STATUS_TXT = """✪ 𝑻𝒐𝒕𝒂𝒍 𝒇𝒊𝒍𝒆𝒔: <code>{}</code>
 ✪ 𝑻𝒐𝒕𝒂𝒍 𝑼𝒔𝒆𝒓𝒔: <code>{}</code>
 ✪ 𝑻𝒐𝒕𝒂𝒍 𝑪𝒉𝒂𝒕𝒔: <code>{}</code>
