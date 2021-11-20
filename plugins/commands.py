@@ -39,8 +39,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/medias_search_robot?startgroup=true')
             ],[
-            InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ʀᴇϙᴜᴇsᴛ', url='https://t.me/Robert_Pattinson119')
+            InlineKeyboardButton('ʀᴇϙᴜᴇsᴛ', switch_inline_query_current_chat='https://t.me/TAMILROCKERS_REQUEST'),
+            InlineKeyboardButton('ʀᴇϙᴜᴇsᴛ', url='https://t.me/TAMILROCKERS_REQUEST')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -81,7 +81,7 @@ async def start(client, message):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/medias_search_robot?startgroup=true')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat='https://t.me/Robert_Pattinson119'),
-            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/Robert_Pattinson119')
+            InlineKeyboardButton('ʀᴇϙᴜᴇsᴛ', url='https://t.me/TAMILROCKERS_REQUEST')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
