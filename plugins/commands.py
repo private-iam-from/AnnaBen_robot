@@ -37,13 +37,13 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/medias_search_robot?startgroup=true')
+            InlineKeyboardButton('⚡ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚡', url='http://t.me/medias_search_robot?startgroup=true')
             ],[
-            InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ʀᴇϙᴜᴇsᴛ', url='https://t.me/TAMILROCKERS_REQUEST')
+            InlineKeyboardButton('🎥 ʀᴇϙᴜᴇsᴛ 🎥', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🎥 ʀᴇϙᴜᴇsᴛ 🎥', url='https://t.me/TAMILROCKERS_REQUEST')
             ],[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('💀 ʜᴇʟᴘ 💀', callback_data='help'),
+            InlineKeyboardButton('🤓 ᴀʙᴏᴜᴛ 🤓', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -62,13 +62,13 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🤖 Join Updates Channel", url=invite_link.invite_link
+                    "😤 Join Updates Channel 😤", url=invite_link.invite_link
                 )
             ]
         ]
 
         if message.command[1] != "subscribe":
-            btn.append([InlineKeyboardButton("𝚃𝚁𝚈 𝙰𝙶𝙰𝙸𝙽", callback_data=f"checksub#{message.command[1]}")])
+            btn.append([InlineKeyboardButton("📢 𝚃𝚁𝚈 𝙰𝙶𝙰𝙸𝙽 📢", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
             text="**Please Join My Updates Channel to use this Bot!**",
@@ -78,13 +78,13 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/medias_search_robot?startgroup=true')
+            InlineKeyboardButton('⚡ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚡', url='http://t.me/medias_search_robot?startgroup=true')
             ],[
-            InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ʀᴇϙᴜᴇsᴛ', url='https://t.me/TAMILROCKERS_REQUEST')
+            InlineKeyboardButton('🎥 ʀᴇϙᴜᴇsᴛ 🎥', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🎥 ʀᴇϙᴜᴇsᴛ 🎥', url='https://t.me/TAMILROCKERS_REQUEST')
             ],[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('💀 ʜᴇʟᴘ 💀', callback_data='help'),
+            InlineKeyboardButton('🤓 ᴀʙᴏᴜᴛ 🤓', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
