@@ -39,7 +39,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚡ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚡', url='http://t.me/medias_search_robot?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 ʀᴇϙᴜᴇsᴛ 🎥', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🎥 ʀᴇϙᴜᴇsᴛ 🎥', url='https://t.me/TAMILROCKERS_REQUEST')
             ],[
             InlineKeyboardButton('💀 ʜᴇʟᴘ 💀', callback_data='help'),
@@ -80,7 +80,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚡ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚡', url='http://t.me/medias_search_robot?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 ʀᴇϙᴜᴇsᴛ 🎥', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🎥 ʀᴇϙᴜᴇsᴛ 🎥', url='https://t.me/TAMILROCKERS_REQUEST')
             ],[
             InlineKeyboardButton('💀 ʜᴇʟᴘ 💀', callback_data='help'),
