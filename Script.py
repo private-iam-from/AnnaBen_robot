@@ -15,7 +15,7 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/medias_search_robot"> Bʀᴏᴄᴋ Lᴇsɴᴀʀ ⚡️</a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/medias_search_robot">Jᴏᴋᴇʀ [OᴠᴇʀPᴏᴡᴇʀᴇᴅ] ⚡</a>
 ║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎ - <a href="https://t.me/Robert_Pattinson119"> 🅁🄾🄱🄴🅁🅃 </a>
 ║┣⪼ 𝓰𝓻𝓸𝓾𝓹 - <a href="https://t.me/TAMILROCKERS_REQUEST"> Click Here </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
